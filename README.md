@@ -1,13 +1,14 @@
 # Exp-1-SQL-query-to-fetch-FIRST_NAME-from-the-worker-table-using-the-alias
 
 ## AIM:
-### To fetch first name from sample work table using alias naming in SQL.
+To fetch first name from sample work table using alias naming in SQL.
+
 ## ALGORITHM:
-### STEP 1: Create a sample table in SQL using CREATE TABLE syntax
-### STEP 2: Insert all the values and Titles respectively using INSERT INTO syntax
-### STEP 3: Now check whether all the rows are affected or not by fetching the table
-### STEP 4: After checking, now we can use alias naming for fetching First_Name column from the EMPLOYEE table
-### STEP 5: We can use its syntax ,SELECT Alias_name AS Alias_variable_name for fetching the column.The results will be displayed accordingly.
+STEP 1: Create a sample table in SQL using CREATE TABLE syntax
+STEP 2: Insert all the values and Titles respectively using INSERT INTO syntax
+STEP 3: Now check whether all the rows are affected or not by fetching the table
+STEP 4: After checking, now we can use alias naming for fetching First_Name column from the EMPLOYEE table
+STEP 5: We can use its syntax ,SELECT Alias_name AS Alias_variable_name for fetching the column.The results will be displayed accordingly.
 
 ## PROGRAM:
 ```
