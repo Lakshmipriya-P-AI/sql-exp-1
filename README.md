@@ -48,4 +48,4 @@ select First_name as fn from Employee;
 ![image](https://github.com/gpavithra673/Exp-1-SQL-query-to-fetch-FIRST_NAME-from-the-worker-table-using-the-alias/assets/93427264/301496f0-271f-409c-8230-4ca120b34abe)
 
 ## RESULT:
-### Thus we have obtained the required column using alias.
+Thus we have obtained the required column using alias.
